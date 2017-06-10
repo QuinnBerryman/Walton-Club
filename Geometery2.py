@@ -1,0 +1,13 @@
+#Geometery 2 - To be Completed.......
+
+#Slope of a Line
+#Distance of a Line
+#Midpoint of a Line
+#Cyclinder Area
+#Equation of a Line
+#Logarithims
+#Differentation
+#Radians??
+#Sphere (Area/Volume)
+#Pythagaros
+
