@@ -10,4 +10,5 @@
 #Radians??
 #Sphere (Area/Volume)
 #Pythagaros
-
+Doppler Equation
+Wind Chill Equation
